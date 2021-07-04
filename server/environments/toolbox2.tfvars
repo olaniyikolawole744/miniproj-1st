@@ -1,0 +1,7 @@
+az2                 = "us-east-1b"
+role2               = "Tool Server 2"
+purpose2            = "Tool"
+index2              = "2"
+inboundport         = "80"
+bootstrap-file-name = "toolbox2"
+machine-ami         = "my-linux-ami"
